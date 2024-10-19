@@ -7,7 +7,7 @@
 
 - 👨‍💻 My Edtech Project [https://edu-solve.odoo.com/](https://edu-solve.odoo.com/)
 
-- 💬 Ask me about **DSA,Devlopment**
+- 💬 Ask me about **DSA,Devlopment,CN,OS**
 
 - 📫 How to reach me **saransh.l.jagwani@gmail.com**
 
