@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saransh Jagwani</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🔭 I’m currently working on [EcoMove](https://github.com/saranshjagwani/EcoMove-Frontend)
+- 🔭 I’m currently working on [RecoAI]()
 
 - 🌱 I’m currently learning **React JS, Node JS**
 
